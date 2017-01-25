@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vongrippen/api_wrapper-auth-http_basic.svg?branch=master)](https://travis-ci.org/vongrippen/api_wrapper-auth-http_basic)
+
 # ApiWrapper::Auth::HttpBasic
 
 This gem provides HTTP Basic Authentication support for ApiWrapper
