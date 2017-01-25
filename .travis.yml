@@ -8,4 +8,5 @@ rvm:
   - 1.9
   - jruby
   - rubinius
+dist: trusty
 before_install: gem install bundler -v 1.13.6
